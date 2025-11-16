@@ -1,0 +1,7 @@
+com\pzr\TliasWebManagementApplication.class
+com\pzr\pojo\Result.class
+com\pzr\service\impl\DeptServiceImpl.class
+com\pzr\pojo\Dept.class
+com\pzr\controller\DeptController.class
+com\pzr\mapper\DeptMapper.class
+com\pzr\service\DeptService.class
